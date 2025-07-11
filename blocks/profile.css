@@ -47,17 +47,17 @@
   gap: 8px;
 }
 
-.profile_edit-btn:hover {
+.profile__edit-btn:hover {
   opacity: 100%;
 }
 
-.profile_pencil-icon {
+.profile__pencil-icon {
   background-image: contain no-repeat url(../images/pencil_icon.svg);
   border: none;
   opacity: 70%;
 }
 
-.profile_pencil-icon:hover {
+.profile__pencil-icon:hover {
   opacity: 100%;
 }
 
