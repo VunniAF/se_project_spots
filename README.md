@@ -6,6 +6,8 @@
 - Project Description
 - Images
 - Tech Stack
+- Deployment
+- About "Spots" Video
 
 **Intro**
 
@@ -44,3 +46,15 @@ This project follows designs specified in the Figma layout below.
 - HTML
 - CSS
 - Responsive web design
+
+**Deployment**
+
+This website is deployed to GitHub Pages.
+
+- Deployment link:
+
+**About "Spots" Video**
+
+A breif video about the Spots project.
+
+- Video link:
